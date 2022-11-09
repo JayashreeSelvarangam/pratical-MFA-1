@@ -1,0 +1,112 @@
+
+*{text-decoration:none;
+}
+body{
+	font-size:2 rem;
+	font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    min-height: 100px;
+    width:100%;
+    justify-content: space-between;
+    align-content: space-around;
+    align-content: center;
+}
+.header .header__logo{
+        max-height: 80px;
+        padding: 10px;
+}
+.header .button{
+    margin: 25px;
+    display:flex;
+    flex-wrap: wrap;
+    max-height: 30px;
+    background-color:#c05326;
+    color:white ;
+    border:0px;
+    border-radius: 5px;
+    width: 100px;
+    justify-content: center;
+    align-content: center;
+}
+.header ul {
+    display: flex;
+    list-style: none;
+}
+.header ul li{
+    padding: 10px;
+}
+.header ul li a{
+font-family: Arial;
+font-weight: bolder;
+color: black;
+}
+.header:hover{
+	color:red;
+	text-decoration:underline;
+}
+div button{
+	padding:2px 3px 2px  3px;
+	margin:10px ;
+	height:50px;
+	width:80px;
+	background-color: #c05326;
+	border-radius:10px;
+}
+.alert{
+	
+    background-color:#f7eae4;
+	border:2px;
+	height:80px;
+	
+	
+	
+}
+.hero{
+	background-image:url('header-bike.jpg');
+    height:40vh;
+    width:50vw;
+    color:white;
+	margin-top:20px;
+	
+}
+	.c1{
+		position:relative;
+		top:100px;
+	}
+	.cardcontainer{
+		border:5px solid black;
+		width:13px;
+		height:13px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	
+
+
+	
+
+	
